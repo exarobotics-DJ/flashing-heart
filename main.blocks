@@ -4,10 +4,10 @@
         # . . . # 
         . # . # . 
         . . # . .
-        `</field><next><block type="device_show_leds" id="g6zY+zW)2)gBN:6`_A!;"><field name="LEDS">`
+        `</field><next><block type="device_pause" id="%6;#[uA.VHB;6u=BB4LJ"><value name="pause"><shadow type="timePicker" id="jbMyCK/p`}-JhBbG#41m"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="g6zY+zW)2)gBN:6`_A!;"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="nL0J^D_Qu7+28.H.EWU!"><value name="pause"><shadow type="timePicker" id="@G|SF}daG),r+N%7[7NS"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
